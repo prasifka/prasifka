@@ -26,6 +26,7 @@ That means:
 ## 🔐 [PGP Key](./PGP-PUBLIC-KEY.asc)
 
 **Contact:** [prach@prach.xyz](mailto:prach@prach.xyz)
+
 **Fingerprint:** `3ADC 1CF0 03F6 EE38 304D  43A5 8DE0 462E 566C FBC5`
 
 ## 📈 Stats (who gives a shi anyway)
