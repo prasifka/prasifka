@@ -7,7 +7,7 @@ Mostly out of curiosity, boredom, or the occasional existential crisis. I code w
 - 🔗 [**prach-browse**](https://github.com/prasifka/prach-browse) 
   A browser that doesn't ask for permission. Bypass restrictions, tunnel through censorship, and pretend HTTP still rules the world.
 
-- 🧵 [**prach-social**](https://github.com/prasifka/prach-social)
+- 🧵 [**prach-social**](https://github.com/prasifka/prachsocial)
   A complete social media web app. Because if you're going to build a platform that wastes people’s time, you might as well own the code.
 
 ## 📜 My (Lack of) Philosophy
@@ -23,20 +23,18 @@ That means:
 - Or launch your own startup with it 
 - Do whatever the f you want
 
-## 🔐 [MyPGP Key](./PGP-PUB.asc)
+## 🔐 [PGP Key](./PGP-PUBLIC-KEY.asc)
 
-Encrypt a message. Verify a commit. Or just admire how long the block is.
-
+**Contact:** [prach@prach.xyz](mailto:prach@prach.xyz)
 **Fingerprint:** `3ADC 1CF0 03F6 EE38 304D  43A5 8DE0 462E 566C FBC5`
 
-## 📈 Stats (who give a shi anyway)
+## 📈 Stats (who gives a shi anyway)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasifka&layout=compact&hide=css&theme=gruvbox)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasifka&show_icons=true&hide=prs&count_private=true&theme=gruvbox)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prasifka&theme=gruvbox)
 
 ---
 
 I don’t have a grand mission. I just make things. Sometimes they’re useful. Sometimes they’re dangerous. Sometimes they’re just funny.
 
-Welcome to the fog.
+Welcome to the fog of dust.
