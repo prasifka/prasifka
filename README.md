@@ -6,4 +6,4 @@
 
 **Contact:** [prach@prach.xyz](mailto:prach@prach.xyz)
 
-**Fingerprint:** `3ADC 1CF0 03F6 EE38 304D  43A5 8DE0 462E 566C FBC5`
+**Fingerprint:** `3FA7 9269 CA3B B89B 884F  E476 1C62 D644 1C71 FD9A`
